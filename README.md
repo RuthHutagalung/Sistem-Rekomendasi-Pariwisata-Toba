@@ -59,9 +59,11 @@ Salah satu metode dalam CF adalah menggunakan Jaccard Similarity untuk mengukur 
 
 ### **Result**
 Gambar 1. Rekomendasi Top 5 Tempat Pariwisata Toba
+
 ![image](https://github.com/user-attachments/assets/04660d31-d052-44ba-8a4f-58e090c66c2d)
 
 Gambar 2. Rekomendasi Top 10 Tempat Pariwisata Toba
+
 ![image](https://github.com/user-attachments/assets/dcfdf278-794a-4e4d-a1e3-1458e38ccad2)
 
 
