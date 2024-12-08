@@ -76,9 +76,11 @@ Cosine Similarity digunakan untuk mengukur seberapa mirip dua item berdasarkan f
 
 ### **Result**
 Gambar 3. Rekomendasi Top 5 Tempat Pariwisata Toba
+
 ![image](https://github.com/user-attachments/assets/2da968b7-807e-4aef-bd13-c58597795773)
 
 Gambar 4. Rekomendasi Top 10 Tempat Pariwisata Toba
+
 ![image](https://github.com/user-attachments/assets/1a6dce73-827c-499b-a698-7bc26be8db40)
 
 
@@ -87,10 +89,12 @@ Gambar 4. Rekomendasi Top 10 Tempat Pariwisata Toba
 
 ### **Result**
 Gambar 5. Rekomendasi Top 5 Tempat Wisata Toba
+
 ![image](https://github.com/user-attachments/assets/b2f45089-5847-4a34-af99-1b7f133dc358)
 
 
 Gambar 10. Rekomendasi Top 10 Tempat Wisata Toba
+
 ![image](https://github.com/user-attachments/assets/a789cf54-5b24-4819-b1b7-b068a6df9844)
  
 
