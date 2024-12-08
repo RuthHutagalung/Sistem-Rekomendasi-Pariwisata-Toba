@@ -109,6 +109,9 @@ Evaluasi model dilakukan menggunakan beberapa metrik untuk mengukur performa rek
 Hasil evaluasi untuk Jaccard Similarity bisa terlihat seperti berikut:
 - RMSE: 0.85
 - MAE: 0.70
+- Precision@5 : 0.2176
+- Recall@5 : 0.894
+- MAP@5 : 0.884
 - Precision@10: 0.65
 - Recall@10: 0.60
 - MAP@10: 0.63
@@ -119,7 +122,7 @@ Model Collaborative Filtering dengan Jaccard Similarity dapat memberikan rekomen
 
 **Metrik Evaluasi Cossine Similarity**
 
-Hasil evaluasi untuk Jaccard Similarity bisa terlihat seperti berikut:
+Hasil evaluasi untuk Cossine Similarity bisa terlihat seperti berikut:
 - RMSE: 0.776
 - MAE: 0.640
 - Precision@5: 0.600
@@ -132,3 +135,18 @@ Hasil evaluasi untuk Jaccard Similarity bisa terlihat seperti berikut:
 **Kesimpulan**
 
 Model Content-Based Filtering dengan Cosine Similarity memiliki performa yang baik dalam memberikan rekomendasi yang relevan untuk sistem rekomendasi pariwisata Toba. Dengan nilai Precision, Recall, dan MAP yang cukup tinggi, model ini menunjukkan kemampuannya untuk memahami preferensi pengguna berdasarkan konten item. Namun, ada ruang untuk perbaikan, terutama dalam meningkatkan nilai Recall untuk memastikan lebih banyak item relevan direkomendasikan.
+
+**Metrik Evaluasi SVD**
+Hasil evaluasi untuk SVD bisa terlihat seperti berikut:
+- RMSE: 0.3101
+- MAE: 0.0441
+- Precision@5: 0.1656
+- Precision@10: 0.0865
+- Recall@5: 0.6681
+- Recall@10: 0.6933
+- MAP@5: 0.3304
+- MAP@10: 0.2176
+
+**Kesimpulan**
+SVD memiliki performa yang cukup baik dalam menghasilkan rekomendasi. RMSE dan MAE yang diperoleh masing-masing adalah 0.3101 dan 0.0441, yang menunjukkan bahwa model mampu memperkirakan rating dengan akurat. Dalam hal precision dan recall, model menunjukkan nilai yang lebih tinggi pada recall, dengan recall@5 sebesar 0.6681 dan recall@10 mencapai 0.6933, yang menunjukkan bahwa model cukup efektif dalam menemukan item relevan. Namun, precision@5 (0.1656) dan precision@10 (0.0865) masih relatif rendah, yang mengindikasikan bahwa meskipun banyak item relevan ditemukan, tingkat akurasi dalam memilih item terbaik masih bisa ditingkatkan. Untuk MAP, model mencatatkan nilai MAP@5 sebesar 0.3304 dan MAP@10 sebesar 0.2176, yang menunjukkan kinerja yang lebih baik pada top-5 rekomendasi dibandingkan dengan top-10. Secara keseluruhan, model SVD menunjukkan hasil yang solid, namun masih ada ruang untuk peningkatan, terutama dalam hal precision.
+
