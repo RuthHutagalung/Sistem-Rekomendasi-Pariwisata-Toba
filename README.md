@@ -59,11 +59,10 @@ Salah satu metode dalam CF adalah menggunakan Jaccard Similarity untuk mengukur 
 
 ### **Result**
 Gambar 1. Rekomendasi Top 5 Tempat Pariwisata Toba
-![WhatsApp Image 2024-12-08 at 08 08 08_cdac1294](https://github.com/user-attachments/assets/5475df77-70da-4302-b108-a61c3164accc)
+![image](https://github.com/user-attachments/assets/04660d31-d052-44ba-8a4f-58e090c66c2d)
 
 Gambar 2. Rekomendasi Top 10 Tempat Pariwisata Toba
-![WhatsApp Image 2024-12-08 at 08 08 31_149b4636](https://github.com/user-attachments/assets/eabe1aba-7bdb-465d-be80-579d35ee3d96)
-
+![image](https://github.com/user-attachments/assets/dcfdf278-794a-4e4d-a1e3-1458e38ccad2)
 
 
 ### **Content-Based Filtering with Cosine Similarity**
@@ -77,11 +76,11 @@ Cosine Similarity digunakan untuk mengukur seberapa mirip dua item berdasarkan f
 
 ### **Result**
 Gambar 3. Rekomendasi Top 5 Tempat Pariwisata Toba
-![WhatsApp Image 2024-12-08 at 08 08 55_40144360](https://github.com/user-attachments/assets/b9fdc2a8-6443-45ef-b9c0-5c6611d541a7)
-
+![image](https://github.com/user-attachments/assets/2da968b7-807e-4aef-bd13-c58597795773)
 
 Gambar 4. Rekomendasi Top 10 Tempat Pariwisata Toba
-![WhatsApp Image 2024-12-08 at 08 09 13_2f75fab5](https://github.com/user-attachments/assets/b4daf58f-9214-453d-aafc-ca2775e8af10)
+![image](https://github.com/user-attachments/assets/1a6dce73-827c-499b-a698-7bc26be8db40)
+
 
 ### **Collaborative Filtering with SVD**
 
