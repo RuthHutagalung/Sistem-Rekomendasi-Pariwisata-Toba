@@ -40,5 +40,12 @@ Dataset ini berisi informasi mengenai pengguna, destinasi wisata, dan interaksi 
 ---
 
 ### 3️⃣ **Data Preparation**
+1. **Penanganan Nilai Hilang**: Mengisi atau menghapus data yang hilang pada kolom seperti usia, kategori, dan rating.
+2. **Encoding Kategorikal**: Mengubah kolom kategori (misal, jenis destinasi) menjadi format numerik menggunakan **one-hot encoding** atau **label encoding**.
+3. **Normalisasi Data**: Menormalkan kolom rating untuk skala seragam menggunakan **Min-Max scaling** atau **Z-score**.
+4. **Pemisahan Data**: Membagi data menjadi **training (70%)**, **validation (15%)**, dan **test (15%)** untuk melatih dan menguji model.
+
+---
+
 ### 4️⃣ **Modeling and Result**
 ### 5️⃣ **Model Evaluation**
