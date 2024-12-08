@@ -83,8 +83,10 @@ Gambar 1. Rekomendasi Top 5 Tempat Pariwisata Toba
 Gambar 2. Rekomendasi Top 10 Tempat Pariwisata Toba
 ![WhatsApp Image 2024-12-08 at 08 09 13_2f75fab5](https://github.com/user-attachments/assets/b4daf58f-9214-453d-aafc-ca2775e8af10)
 
+### **Collaborative Filtering with SVD**
 
 
+### **Result**
 --- 
 
 ### 5️⃣ **Model Evaluation**
