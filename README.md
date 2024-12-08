@@ -76,18 +76,24 @@ Cosine Similarity digunakan untuk mengukur seberapa mirip dua item berdasarkan f
 - Menghitung Cosine Similarity: Menghitung kemiripan antara item yang sudah disukai pengguna dengan item lainnya menggunakan Cosine Similarity.
 
 ### **Result**
-Gambar 1. Rekomendasi Top 5 Tempat Pariwisata Toba
+Gambar 3. Rekomendasi Top 5 Tempat Pariwisata Toba
 ![WhatsApp Image 2024-12-08 at 08 08 55_40144360](https://github.com/user-attachments/assets/b9fdc2a8-6443-45ef-b9c0-5c6611d541a7)
 
 
-Gambar 2. Rekomendasi Top 10 Tempat Pariwisata Toba
+Gambar 4. Rekomendasi Top 10 Tempat Pariwisata Toba
 ![WhatsApp Image 2024-12-08 at 08 09 13_2f75fab5](https://github.com/user-attachments/assets/b4daf58f-9214-453d-aafc-ca2775e8af10)
 
 ### **Collaborative Filtering with SVD**
 
 
 ### **Result**
---- 
+Gambar 5. Rekomendasi Top 5 Tempat Wisata Toba
+![image](https://github.com/user-attachments/assets/b2f45089-5847-4a34-af99-1b7f133dc358)
+
+
+Gambar 10. Rekomendasi Top 10 Tempat Wisata Toba
+![image](https://github.com/user-attachments/assets/a789cf54-5b24-4819-b1b7-b068a6df9844)
+ 
 
 ### 5️⃣ **Model Evaluation**
 
